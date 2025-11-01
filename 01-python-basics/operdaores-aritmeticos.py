@@ -10,3 +10,10 @@ z = x + y
 #forma simples de fazer um printf.
 print('A soma dos valores é', z)
 
+# """ """
+# Operadores 
+
+# == igual a 
+# != 
+
+# """

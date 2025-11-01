@@ -1,0 +1,1 @@
+#Dia 3 = Operadores de Comparação e F-Strings 
