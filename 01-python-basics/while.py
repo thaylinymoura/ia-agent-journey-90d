@@ -17,7 +17,10 @@ while True:
     nome = input()
     if nome  == 'x' or nome == 'X':
         break
-    print(f'Bem-vindo',{nome})
+    print(f'Bem-vindo',{nome}) 
 
+    # Porque usar fString?
+
+    
 
 
