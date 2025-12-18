@@ -29,4 +29,4 @@ astros.discard('')
 astros.pop() #remocao aleatoria
 astros.clear
 
-#A ordem e aleatoria
+#A ordem e aleatoria``
