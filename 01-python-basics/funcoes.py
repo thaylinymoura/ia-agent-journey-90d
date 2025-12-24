@@ -41,7 +41,21 @@
 
 # Pode ser passado uma lista, tupla interira para ser trabalhada em uma Funcao
 
+#Redefinição dos valores de parameros e argumentos dentro das funçõens
+def contar(num = 11, caractere='+'):
+    for i in range(1, num):
+     print(caractere)
 
+
+if __name__ == '__main__':
+   contar(caractere='&')
+   #contar(caractere='&')
+   contar(8,'@')
+   #tem que passar na ordem correta 
+
+#valores sem atribuição primeiro 
+#def contar(caractere, arroz, num = 12):
+   
 
 
 
